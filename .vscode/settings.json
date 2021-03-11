@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\envs\\py3\\python.exe",
+
+    "python.autoComplete.extraPaths": [
+        "D:\\Anaconda\\envs\\py3",
+        "D:\\Anaconda\\envs\\py3\\Lib\\site-packages"
+    ],
+    "python.autoComplete.addBrackets": true,
+}

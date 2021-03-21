@@ -1,3 +1,13 @@
+my_list = ['aaa','bbb','ccc','ddd']
+for i in my_list:
+    print(i)
+
+my_list.append('eee')
+print(my_list)
+
+print(my_list.extend([1,2,3]))
+
+
 # 分配办公室
 import random
 # 定义办公室列表
